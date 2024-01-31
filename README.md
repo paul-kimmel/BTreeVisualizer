@@ -5,5 +5,6 @@
 - Visualizer for nodes
 - Windows forms rendering
 
-![alt text](https://github.com/paul-kimmel/BTreeVisualizer/blob/visualized_btree.png?raw=true)
 
+
+![visualized_btree](https://github.com/paul-kimmel/BTreeVisualizer/assets/105062328/d0f3133c-4084-4f10-8df4-22c6a62d3dd4)
